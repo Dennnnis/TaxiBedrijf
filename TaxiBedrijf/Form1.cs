@@ -22,17 +22,13 @@ namespace TaxiBedrijf
             switch(datum.DayOfWeek)
             {
                 case DayOfWeek.Friday:
-                    if (time >= (22 * 60))
-                        return 1;
-                    break;
+                    if (time >= (22 * 60)) return 1; break;
                 case DayOfWeek.Saturday:
                     return 1;
                 case DayOfWeek.Sunday:
                     return 1;
                 case DayOfWeek.Monday:
-                    if (time < 7 * 60)
-                        return 1;
-                    break;
+                    if (time < 7 * 60) return 1; break;
             }
             return 0;
         }

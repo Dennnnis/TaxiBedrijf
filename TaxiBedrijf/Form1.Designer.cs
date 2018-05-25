@@ -160,7 +160,7 @@
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(92, 30);
             this.textBox5.TabIndex = 11;
-            this.textBox5.Text = "1";
+            this.textBox5.Text = "15";
             // 
             // label6
             // 
@@ -187,7 +187,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(250, 271);
+            this.ClientSize = new System.Drawing.Size(250, 266);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.textBox5);
