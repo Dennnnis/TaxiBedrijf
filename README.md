@@ -1,4 +1,4 @@
 # TaxiBedrijf
 Opdracht 2.1
 
-Moet nog gewerkt woorden aan de GUI.
+Moet nog gewerkt worden aan de GUI, en error checking
